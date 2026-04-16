@@ -1,6 +1,5 @@
 # javas
 học lập trình 
-day 1
 cretor acc github vs X 
 viet tieu su, tinhs points
 tạo acc x mới cho hnay
@@ -10,29 +9,15 @@ nhảy làm gì?
 học nhanh
 làm nhiều
 test nhiều
-day 1
-cretor acc github vs X 
-viet tieu su, tinhs points
-tạo acc x mới cho hnay
-làm sao nhảy?
-nhảy làm gì?
-đam mê ko?
-học nhanh
-làm nhiều
-test nhiều
-học web 3 
-day 1 học 1 bài
-bài 2 học 2 day
-đi học ở đâu ?
-mai học gì?
-làm sao làm bài tập
 làm quen bài học
 cretor acc github vs X 
 viet tieu su, tinhs points
 tạo acc x mới cho hnay
+làm web ntn?
+làm quen bài học
+day 1
+cretor acc github vs X 
+viet tieu su, tinhs points
+tạo acc x mới cho hnay
 làm sao nhảy?
 nhảy làm gì?
-đam mê ko?
-học nhanh
-làm nhiều
-test nhiều
